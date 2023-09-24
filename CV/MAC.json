@@ -6,15 +6,31 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Name",
-      "surnames": "Surnames",
-      "title": "Title"
+      "name": "Jaimgreg",
+      "surnames": "Ternero Dorta",
+      "title": "Title",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/24/e2a64e68-4518-47d9-b776-08d9343ad248_112439716.jpeg",
+        "alt": "112439716.jpeg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
+      }
     }
   },
   "careerPreferences": {
     "contact": {
       "contactMails": [
         "jternero@student.42malaga.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "654313864",
+          "countryCode": "+34"
+        }
       ]
     },
     "status": "searchingActively"
