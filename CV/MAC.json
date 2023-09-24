@@ -228,7 +228,9 @@
         }
       ],
       "preferredRoles": [
-        "Backend Developer"
+        "Backend Developer",
+        "Data Analysis & BI",
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"
