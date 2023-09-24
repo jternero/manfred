@@ -23,6 +23,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/jaimgreg-ternero/",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "jternero@student.42malaga.com"
       ],
