@@ -213,6 +213,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         }
