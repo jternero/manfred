@@ -103,6 +103,30 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Fundamentos de la ciberseguridad",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "Coursera",
+          "URL": "https://www.coursera.org/account/accomplishments/certificate/RHZVLAP7YTLZ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/24/0eb19f1a-9d72-464b-bca8-627962ecdc12_1695303954518.jpeg",
+            "alt": "1695303954518.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
