@@ -107,6 +107,43 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
+        "name": "Bootcamp CyberSecurity (II Edición)",
+        "startDate": "2023-06-01",
+        "institution": {
+          "name": "Fundacion Telefonica",
+          "description": "Haber participado en el Bootcamp de Ciberseguridad de 42 Málaga Fundación Telefónica permite obtener esta acreditación. Dicho bootcamp es una experiencia disruptiva y presencial, que tiene una duración de 8 semanas y es de nivel medio-avanzado. A lo largo de este periodo, además de desarrollar una serie de habilidades transversales y más sociales, aprendes una serie de conocimientos técnicos en torno a Python, criptografía, seguridad en redes de comunicaciones, desarrollo seguro y protección, seguridad web, vulnerabilidades, informática forense, malware y códigos maliciosos, técnicas OSINT y metadatos, e investigación en fuentes abiertas, entre otros.",
+          "URL": "https://eu.badgr.com/public/assertions/O_7-YP2gS8uCEmgMDoZWBA",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/24/153b1035-d886-40a1-8e0c-ce5659c68aec_assertion-o_7-yp2gs8.svg",
+            "alt": "assertion-O_7-YP2gS8uCEmgMDoZWBA.svg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Scrapy",
+            "type": "technology"
+          },
+          {
+            "name": "VMWare",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
         "name": "Fundamentos de la ciberseguridad",
         "startDate": "2023-09-01",
         "institution": {
