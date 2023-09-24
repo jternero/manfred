@@ -198,6 +198,18 @@
           "name": "Adaptabilidad al cambio",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de abstracción",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de recibir feedback",
+          "type": "practice"
+        }
       }
     ]
   },
