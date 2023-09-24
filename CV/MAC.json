@@ -210,6 +210,14 @@
         }
       ]
     },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ]
+    },
     "status": "searchingActively"
   },
   "manfredSpecificData": {
