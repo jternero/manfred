@@ -22,6 +22,39 @@
       }
     }
   },
+  "experience": {
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Hackea Malaga I",
+          "description": "Concursa que se celebró en Malaga, Se llevaban a cabo varias clases y seminarios para dar unas pautas para la puesta a punto de un proyecto con una finalidad clara, el cambio climatico. \n\nObtuve el primer puesto en el concurso junto con mis dos compañeros.\n"
+        },
+        "type": "achievement",
+        "publishingDate": "2023-02-01",
+        "tags": [
+          "Tecnologia y desarrollo de Aplicacion"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Figma",
+            "type": "technology"
+          },
+          {
+            "name": "Google Analytics",
+            "type": "technology"
+          },
+          {
+            "name": "Google Sheets",
+            "type": "technology"
+          },
+          {
+            "name": "Microsoft Power BI",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "hardSkills": [
       {
