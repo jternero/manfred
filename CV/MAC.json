@@ -65,6 +65,45 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "42 School | Software Developer",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "Fundacion Telefonica",
+          "description": "Escuela de programación, basado en proyectos, donde los estudiantes forman parte de la carrera de los compañeros y se basa en aprendizaje por pares.",
+          "URL": "https://www.42malaga.com"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Apple macOS",
+            "type": "technology"
+          },
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "VMWare",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
