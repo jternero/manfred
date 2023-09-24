@@ -220,6 +220,12 @@
           "name": "Python",
           "type": "technology"
         }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
       ]
     },
     "status": "searchingActively"
