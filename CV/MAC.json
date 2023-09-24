@@ -164,6 +164,31 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Introduction to Cybersecurity",
+        "startDate": "2023-09-01",
+        "institution": {
+          "name": "CISCO",
+          "description": "Cisco verifies the earner of this badge successfully completed the Introduction to Cybersecurity course. The holder of this student-level credential has introductory knowledge of cybersecurity, including the global implications of cyber threats on industries, and why cybersecurity is a growing profession. They understand vulnerabilities and threat detection and defense. They also have insight into opportunities available with pursuing cybersecurity certifications.",
+          "URL": "https://www.credly.com/badges/ffdb14c3-813d-401c-9cb6-214835df3d04/linked_in_profile",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/24/79b617e1-dd20-43bd-b642-9ef7162639e2_i2cs__1_.png",
+            "alt": "I2CS__1_.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
